@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ github.PedroQuinellato }}
+          USERNAME: ${{ PedroQuinellato }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
