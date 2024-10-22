@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil  👾
 
-[![card](https://github-readme-stats.vercel.app/api?username=PedroQuinellato&theme=Tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=PedroQuinellato&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroQuinellato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroQuinellato&theme=highcontrast&show&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
