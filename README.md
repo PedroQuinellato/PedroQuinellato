@@ -1,6 +1,11 @@
-## Bem-vindo(a) ao meu perfil  👾
+# Bem-vindo(a) ao meu perfil  👾
 
-## Olá, meu nome é Pedro!
+Olá, meu nome é Pedro!
+
+Sobre mim
+
+- 🤔 Descobrindo novas tecnologias e criando soluções.
+- 🎓 Estudando Ciências da Computação na PUC minas.
 
 ### ⚙️ GitHub Analytics
 
