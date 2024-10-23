@@ -38,6 +38,13 @@ Sobre mim
 
  
 <br>
+
+# 🌟 Meu GitHub em 3D
+
+Veja abaixo meu calendário de contribuições em 3D!
+
+![3D Contribution Calendar](profile-3d-contrib/profile-night-view.svg)
+
  
 ### Pra mais contato, segue as redes aqui em baixo!
  
