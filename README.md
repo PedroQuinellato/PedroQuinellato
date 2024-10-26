@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil  👾
 
-Olá, meu nome é Pedro!
+Olá, meu nome é Pedro Henrique!
 
 Sobre mim
 
