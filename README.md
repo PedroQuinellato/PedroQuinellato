@@ -18,16 +18,10 @@ Sobre mim
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PedroQuinellato&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
+
+[![GitHub Streak](https://github-readme-streak-stats-ojjs.vercel.app?user=PedroQuinellato&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 <table>
   <tr>
