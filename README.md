@@ -14,20 +14,6 @@ Sobre mim
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroQuinellato&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-[![GitHub Streak](https://github-readme-streak-stats-ojjs.vercel.app?user=PedroQuinellato&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroQuinellato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
